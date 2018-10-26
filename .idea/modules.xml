@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pl.dawidpalka.Java2Exercise1.iml" filepath="$PROJECT_DIR$/.idea/modules/pl.dawidpalka.Java2Exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pl.dawidpalka.Java2Exercise1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pl.dawidpalka.Java2Exercise1_main.iml" group="pl.dawidpalka.Java2Exercise1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pl.dawidpalka.Java2Exercise1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pl.dawidpalka.Java2Exercise1_test.iml" group="pl.dawidpalka.Java2Exercise1" />
+    </modules>
+  </component>
+</project>
